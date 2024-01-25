@@ -1,4 +1,4 @@
-#Sun Jan 21 18:03:59 CST 2024
+#Tue Jan 23 18:42:11 CST 2024
 base.0=E\:\\android project\\Andriod Serial to Remote\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
 base.1=E\:\\android project\\Andriod Serial to Remote\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
 base.2=E\:\\android project\\Andriod Serial to Remote\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\14\\classes.dex
